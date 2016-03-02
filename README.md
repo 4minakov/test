@@ -1,2 +1,2 @@
 # test
-test file
+test file for exercises with Michel
